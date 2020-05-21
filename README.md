@@ -102,27 +102,35 @@ Con estos Wireframes se tratará de mostrar al cliente el nuevo rediseño y como
 La página principal (index.html) se centrará en mostrar más imagenes con un expositor y menos información, para mostrar las instalaciones a los usuarios y convencerlos, permitiendo mediante enlaces ampliar dicha información ('leer más',con gran constraste). Se relega a un "segundo plano" la pecera y se pone dentro del menú desplegable ya que podría distraer y confundir a los usuarios por primera vez. Luego a la izquierda se tendría un menú lateral para no acaparar la información de estas imagenes principales. Tras abrirlo se centraría la atención en este menú que se expande y deja un poco más apagado el fondo que tiene (en este caso las páginas principales), mostrando las distintas opciones del mismo. En el footer nos encontraremos con las distintas redes sociales, enlace a las FAQS y el contacto y enlace a la accesibilidad. Durante la navegación, hay un icono de un mensaje que al pulsar se abre un bot en linea para preguntas. También se muestra en el menú una opción para la navegación por voz.   
 En la parte superior derecha se encuentra el icono del avatar, donde al pulsarlo te permite iniciar sesión o registrarse, para poder acceder al area personal.
 
+página principal
 ![](bocetos/index.png)
 <br>
 <br>
+desplegando menú lateral
 ![](bocetos/menu.png)
 <br>
 <br>
+area de trabajo
 ![](bocetos/area_trabajo.png)
 <br>
 <br>
+búsqueda
 ![](bocetos/busqueda.png)
 <br>
 <br>
+inicio de sesión
 ![](bocetos/inicio_sesion.png)
 <br>
 <br>
+registro
 ![](bocetos/registro.png)
 <br>
 <br>
+area personal
 ![](bocetos/area_personal.png)
 <br>
 <br>
+mapa interactivo
 ![](bocetos/GoogleMaps.png)
 <br>
 <br>

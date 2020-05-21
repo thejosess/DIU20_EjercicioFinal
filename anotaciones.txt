@@ -1,0 +1,53 @@
+hacer una versión por encima de las prácticas, quitar las cosas que no aporten
+o del UX rebajar y quitar cosas.
+
+cumple y resuelve de la página de forma correcta los problemas de los usuarios?
+el coworking puede resolver ese problema pero que la página web no se acerque a ese objetivo
+
+hacer bocetos??
+
+
+eso de la pecera comunicación ?? si es coworking no puedes tambien hacer esto y no cambiar
+tu lema introducctorio, MIRAR enlace que no sigue lo de simple ENLACE
+Improve clarity over time
+si como empresa de coworking HACES no estás tirandote un tiro en el pie?
+o fomenta mas la creativadad?
+
+pocas funcionalidades y muchas PUBLIDAD PROPIA = MAL
+no se paga en la pagina, SOLO ES PUBLIDAD E INFORMATIVA
+
+MIRAR NOTAS KEEP QUE TENGO 
+
+ERROR PEGADO DIRECTAMENTE CON HTML SIN FORMATO DE CSS -> buscar en internet los errores como hacerlo mejor
+y cambiarlo de esa forma.
+
+añadir uso de una API de google -> todo eso mostrarlo con algún boceto?
+
+a raiz del error eso de php decirle de usar la tecnica y filosofía de url limpias
+y index.html las sirva, usando un geestor de plantilla como twig (explicar cosas de SIBW)
+
+en index.html alfinal oner algo más ilustrativo
+
+DONDE HACER LOS BOCETOS QUE ESTÁN GUAPOS -> https://balsamiq.com/
+
+poner que se añada una función para iniicar sesión a los usuarios 
+HACER BOCETOS DE ESTO (reciclar las que tenía de la práctica o copiar de otro lado?)
+
+APORTAR TAMBIEN UNA APP SOBRETODO CENTRADA EN LOS ERRANTE
+
+ES UN REDISEÑO Y HE CONSEDIRADO QUE NO HACÍA FALTA CREAR PERSONAS
+EN LAS GUIAS QUE HE VISTO POR INTERET -> PONER REFERENCIA, LA GENTE NO CREABA PERSONAS
+
+cuando lo pones en inglés te da errores.
+
+decorar algo más la portada y README github
+
+añadir en el footer una sección de accesibilidad
+
+comandos de voz -> errant
+
+el cliente que quiera pagar o gestionar sus cosa de errante no puede 
+DAR PISTAS DE ESO Y AYUDAS
+
+solo sirven para clientes que busquen inforamcióń y aun así es pobre ya que no filtra
+o tiene un mapa interactivo

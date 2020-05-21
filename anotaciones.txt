@@ -51,3 +51,37 @@ DAR PISTAS DE ESO Y AYUDAS
 
 solo sirven para clientes que busquen inforamcióń y aun así es pobre ya que no filtra
 o tiene un mapa interactivo
+
+copiar de aqui para el bot ? o icono de wa
+https://oasiscoworking.es/contactanos/
+copìar estilo? -> https://theministry.com/
+centrando página de INICIO EN MOSTRAR MAS FOTOGRAFÍAS Y TAL
+https://www.mortimerhouse.com/
+lo de faqs ponerlo abajo junto a los enlaces de las redes sociales y accesiblidad ->
+https://www.campus.co/london/
+
+### User matrix
+
+creo que no voy a añadirla?
+se centra más bien en lo que se va a añadir y ademas TAMPOCO VOY A CREAR MUCHOS TIPOS DE EUSUARIOS NUEVOS O MUCHAS FUNCIONES NUEVAS
+
+LOS ERRORES DE ACCESIBLIDAD TENER MUY EN CUENTA PARA LUEGO EN LA PROPUESTA
+SOLUCIONARLOS
+
+PATRONES
+--------------
+una aplicación? -> explicar que con este rediseño sería muy facil hacer una app, ya que se ha usado PAGINA WEB ->> PWAs
+ESTO HABLARLO DENTRO DE LA SECCIÓN DE PATRONES
+UTILIZAR ICONOGRAFÍA????
+HABLAR DE QUE LA PALETA DE COLOR IGUAL
+he usado un patron que se basa mas bien en epxoner en al pagina principal
+
+al abrir el menu poner ahí la lupa
+
+no PONES TAN PRINCIPAL EL AREA DE LA PECERA QUE ESO PUEDE DISTRAER
+
+los resultados de la búsqueda se mantienen igual
+
+poner lo de las soluciones a la accesbilidad REVISAR ESO
+
+todo lo subrayado son enlaces

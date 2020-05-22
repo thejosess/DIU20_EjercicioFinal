@@ -28,8 +28,9 @@ También se reitira la parte de contacto, en la página de inicio al final y en 
 Y uno de los principales problemas es lo confuso de su navegación por menús y su posicionamiento
 
 
-[Usability Review ~ xlsx](https://github.com/thejosess/DIU20_EjercicioFinal/UX.xlsx)  <br>
-[Usability Review ~ PDF](https://github.com/thejosess/DIU20_EjercicioFinal/UX.pdf) 
+[Usability Review ~ xlsx](https://github.com/thejosess/DIU20_EjercicioFinal/blob/master/UX.xlsx)  
+<br>
+[Usability Review ~ PDF](https://github.com/thejosess/DIU20_EjercicioFinal/blob/master/UX.pdf)  
 
 
 ### Accesiblidad

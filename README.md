@@ -34,7 +34,7 @@ Y uno de los principales problemas es lo confuso de su navegación por menús y 
 
 ### Accesiblidad
 Adicionalmente y para analizar los problemas de accesibilidad se ha hecho uso de extensiones como  accessibbility insights for web, WAVE Web Accesibility Evaluation Tool, Web Disability Simulator y AXE. 
-La página no tiene ninguna sección de información sobre accesibilidad, tiene errores de contraste con los enlaces, los formulario no tienen etiquetas correspondientes, varios elementos tienen id iguales, el encabezado debe incrementarse para una mayor visibilidad para personas con discapacidades y no permite el zum y la aplicación ("maximum-scale en la etiqueta <meta> impide el zum en dispositivos móviles"). La aplicación obtiene un resultado pobre en cuanto a accesbilidad, impidiendo su uso normal por personas con discapacidades visuales.   
+La página no tiene ninguna sección de información sobre accesibilidad, tiene errores de contraste con los enlaces, los formulario no tienen etiquetas correspondientes, varios elementos tienen id iguales, el encabezado debe incrementarse para una mayor visibilidad para personas con discapacidades y no permite el zum y la aplicación ("maximum-scale en la etiqueta <meta> impide el zum en dispositivos móviles").     
 En cuanto al soporte de otros idiomas, al cambiar al inglés, ocurren algunos errores y las entradas del blog no están traducidas.
 
         formats not supported oir souces not found
@@ -99,7 +99,10 @@ Término | Significado
 
 ### Wireframes
 Con estos Wireframes se tratará de mostrar al cliente el nuevo rediseño y como podría acabar.   
-La página principal (index.html) se centrará en mostrar más imagenes con un expositor y menos información, para mostrar las instalaciones a los usuarios y convencerlos, permitiendo mediante enlaces ampliar dicha información ('leer más',con gran constraste). Se relega a un "segundo plano" la pecera y se pone dentro del menú desplegable ya que podría distraer y confundir a los usuarios por primera vez. Luego a la izquierda se tendría un menú lateral para no acaparar la información de estas imagenes principales. Tras abrirlo se centraría la atención en este menú que se expande y deja un poco más apagado el fondo que tiene (en este caso las páginas principales), mostrando las distintas opciones del mismo. En el footer nos encontraremos con las distintas redes sociales, enlace a las FAQS y el contacto y enlace a la accesibilidad. Durante la navegación, hay un icono de un mensaje que al pulsar se abre un bot en linea para preguntas. También se muestra en el menú una opción para la navegación por voz.   
+La página principal (index.html) se centrará en mostrar más imagenes con un expositor y menos información, para mostrar las instalaciones a los usuarios y convencerlos, permitiendo mediante enlaces ampliar dicha información ('leer más',con gran constraste).   
+Se relega a un "segundo plano" la pecera y se pone dentro del menú desplegable ya que podría distraer y confundir a los usuarios por primera vez.  
+Luego a la izquierda se tendría un menú lateral para no acaparar la información de estas imagenes principales. Tras abrirlo se centraría la atención en este menú que se expande y deja un poco más apagado el fondo que tiene (en este caso las páginas principales), mostrando las distintas opciones del mismo.   
+En el footer nos encontraremos con las distintas redes sociales, enlace a las FAQS y el contacto y enlace a la accesibilidad. Durante la navegación, hay un icono de un mensaje que al pulsar se abre un bot en linea para preguntas. También se muestra en el menú una opción para la navegación por voz.   
 En la parte superior derecha se encuentra el icono del avatar, donde al pulsarlo te permite iniciar sesión o registrarse, para poder acceder al area personal.
 
 página principal

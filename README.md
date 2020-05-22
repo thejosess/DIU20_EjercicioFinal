@@ -155,7 +155,7 @@ En resumen, una PWA tiene que responder a la solicitud del usuario (permitir fun
 
 ![](img/pwa.png)    
 
-(producir 60 fps y cada fotograma tiene que pasar por estos pasasos)
+(producir 60 fps y cada fotograma tiene que pasar por estos pasos)
 ![](img/pwa1.png)   
 
 

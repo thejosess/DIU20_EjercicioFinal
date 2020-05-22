@@ -150,11 +150,10 @@ Para ello es necesario trabajar sobre los requisitos del modelo RAIL introducido
 * Inhabilitado
 * Carga  
 En resumen, una PWA tiene que responder a la solicitud del usuario (permitir funcionar sin conexión), mostrar una animación para mantenerlo en espsera, almacenar en caché el contenido que sea posible y cargar en menos de un segundo.
-<br>  
-<br>         
-   
-![](img/pwa.png)   
+<br>
+<br>    
 
+![](img/pwa.png)    
 
 (producir 60 fps y cada fotograma tiene que pasar por estos pasasos)
 ![](img/pwa1.png)   

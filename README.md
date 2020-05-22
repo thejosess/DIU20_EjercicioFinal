@@ -35,7 +35,7 @@ Y uno de los principales problemas es lo confuso de su navegación por menús y 
 
 ### Accesiblidad
 Adicionalmente y para analizar los problemas de accesibilidad se ha hecho uso de extensiones como  accessibbility insights for web, WAVE Web Accesibility Evaluation Tool, Web Disability Simulator y AXE. 
-La página no tiene ninguna sección de información sobre accesibilidad, tiene errores de contraste con los enlaces, los formulario no tienen etiquetas correspondientes, varios elementos tienen id iguales, el encabezado debe incrementarse para una mayor visibilidad para personas con discapacidades y no permite el zum y la aplicación ("maximum-scale en la etiqueta <meta> impide el zum en dispositivos móviles").     
+La página no tiene ninguna sección de información sobre accesibilidad, tiene errores de contraste con los enlaces, los formulario no tienen etiquetas correspondientes, varios elementos tienen id iguales, el encabezado debe incrementarse para una mayor visibilidad para personas con discapacidades y no permite el zoom la página ("maximum-scale en la etiqueta <meta> impide el zum en dispositivos móviles").     
 En cuanto al soporte de otros idiomas, al cambiar al inglés, ocurren algunos errores y las entradas del blog no están traducidas.
 
         formats not supported oir souces not found
@@ -144,7 +144,7 @@ Todos los elementos de los bocetos subrayados, son enlaces a otras secciones de 
 
 ### Guidelines
 En cuanto a la guía de diseño se ha basado en esta referencía [1] y para el rediseño como se ha podido ver, se ha simplificado la página por completo para mostrar principalmente imagenes de las areas de trabajos (en la página principal) o imagenes que ilustren dicha sección (imagenes asociadas de cada una) y centrandose en captar la atención del usuario con una idea simple y concreta; el coworking. Luego se tiene un menú lateral para mayor información pero dejando así limpia la página en la que se está.    
-Todo este desarrollo se sustenta en el principio de creación de la página mediante la filosofía de Progressive Web Apps (dejando Wordpress) para obtener un mayor control y la capacidad de aunar lo mejor de dos sectores como es el de las páginas webs y las aplicaciones (aumentando el sector de actuación).  
+Todo este desarrollo se sustenta en el principio de creación de la página mediante la filosofía de Progressive Web Apps (dejando Wordpress) para obtener un mayor control y la capacidad de aunar lo mejor de dos sectores como es el de las páginas webs y las aplicaciones (aumentando el sector de actuación).   
 Para ello es necesario trabajar sobre los requisitos del modelo RAIL introducido por Google:
 * Respuesta
 * Animación
@@ -160,7 +160,8 @@ En resumen, una PWA tiene que responder a la solicitud del usuario (permitir fun
 ![](img/pwa1.png)   
 
 
-Además de lo comentando se usará material-UI para implementar material desing de google en la web (que tanto gusta a los usuarios). Así como Paymente request API para efectuar los pagos desde la web.
+Además de lo comentando se usará material-UI para implementar material desing de google en la web (que tanto gusta a los usuarios). Así como Paymente request API para efectuar los pagos desde la web.    
+Todo esto ayudaría a solucionar algunos problemas de accesibilidad (el zoom, contraste, etiquetado, etc) y junto al modo de navegación por voz incrementaría la accesibilidad de la página. 
 
 ## Conclusiones
 Este sería el analisis y el rediseño que propongo a Errant para su página web. Hay que tener en cuenta que esto es un primer vistazo, para la realización del rediseño por completo sería necesario hablar con la parte interesada (la empresa) y poder ultimar todo, así como partes importantes de la implementación que se han omitdo.

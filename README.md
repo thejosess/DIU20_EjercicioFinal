@@ -171,7 +171,7 @@ A lo largo de esta asignatura (tanto en prácticas como en teoría), hemos ido a
 Es por tanto vital como desarrolladores, tener en cuenta al usuario y hacer un producto con la mayor calidad posible mediante estas técnicas y parametros. Una aplicación de estas técnicas, provocaría una importante mejora en el servicio, como se ha podido ver con la página que se ha rediseñado.
 
 
-Biografía
+**Biografía**
 
 [1]:https://52weeksofux.com/
 

@@ -164,7 +164,11 @@ Además de lo comentando se usará material-UI para implementar material desing 
 Todo esto ayudaría a solucionar algunos problemas de accesibilidad (el zoom, contraste, etiquetado, etc) y junto al modo de navegación por voz incrementaría la accesibilidad de la página. 
 
 ## Conclusiones
-Este sería el analisis y el rediseño que propongo a Errant para su página web. Hay que tener en cuenta que esto es un primer vistazo, para la realización del rediseño por completo sería necesario hablar con la parte interesada (la empresa) y poder ultimar todo, así como partes importantes de la implementación que se han omitdo.
+Este sería el analisis y el rediseño que propongo a Errant para su página web. Hay que tener en cuenta que esto es un primer vistazo, para la realización del rediseño por completo sería necesario hablar con la parte interesada (la empresa) y poder ultimar todo, así como partes importantes de la implementación que se han omitdo.  
+
+A lo largo de esta asignatura (tanto en prácticas como en teoría), hemos ido aprendido técnicas con las que analizar los servicios que se le proporcionan al usuario, tales como la creación de personas ficticias, mapas de usuarios, labeling, etc. Todo ello ha ido conformando un cambio en mi visión, aportandole un mayor peso a la interacción con el usuario y sus necesidades, como puede llegar a ser una gran accesiblidad de los servicios.
+
+Es por tanto vital como desarrolladores, tener en cuenta al usuario y hacer un producto con la mayor calidad posible mediante estas técnicas y parametros. Una aplicación de estas técnicas, provocaría una importante mejora en el servicio, como se ha podido ver con la página que se ha rediseñado.
 
 
 Biografía
